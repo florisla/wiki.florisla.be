@@ -24,7 +24,7 @@
 ### Second-hand Belgium
 * http://2dehands.be
 * http://kapaza.be
-* 
+
 ### Second-hand Netherlands
 * http://marktplaats.nl
 * http://2dehands.nl
