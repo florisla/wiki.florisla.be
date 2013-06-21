@@ -16,6 +16,7 @@
 * http://eforchina.com
 * http://dx.com
 * http://aliexpress.com
+* http://hongkongeek.com
 
 ### RAM memory
 * http://crucial.com
