@@ -1,33 +1,33 @@
 ## Online electronics shops
 
 ### Mainstream
-* http://amazon.de
-* http://amazon.co.uk
-* http://bol.nl
-* http://coolblue.be
-* http://mycom.be
-* http://redcoon.be
+* [Amazon.de](http://amazon.de)
+* [Amazon UK](http://amazon.co.uk)
+* [BOL](http://bol.nl)
+* [CoolBlue](http://coolblue.be)
+* [MyCom](http://mycom.be)
+* [RedCoon](http://redcoon.be)
 
 ### Flash sale
-* http://ibood.be
+* [iBood](http://ibood.be)
 
 ### Cheap international
-* http://tmart.com
-* http://eforchina.com
-* http://dx.com
-* http://aliexpress.com
-* http://hongkongeek.com
+* [Tmart](http://tmart.com)
+* [eForChina](http://eforchina.com)
+* [DealExtreme](http://dx.com)
+* [AliExpress](http://aliexpress.com)
+* [HongKongeek](http://hongkongeek.com)
 
 ### RAM memory
-* http://crucial.com
+* [Crucial](http://crucial.com)
 
 ### Second-hand Belgium
-* http://2dehands.be
-* http://kapaza.be
+* [2dehands](http://2dehands.be)
+* [Kapaze](http://kapaza.be)
 
 ### Second-hand Netherlands
-* http://marktplaats.nl
-* http://2dehands.nl
+* [Marktplaats](http://marktplaats.nl)
+* [2dehands.nl](http://2dehands.nl)
 
 ### Electronics
 * [Conrad](http://www.conrad.be)
