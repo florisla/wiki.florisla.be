@@ -28,3 +28,10 @@
 ### Second-hand Netherlands
 * http://marktplaats.nl
 * http://2dehands.nl
+
+### Electronics
+* [Conrad](http://www.conrad.be)
+* [Electronics-discount](http://www.electronic-discount.be/)
+
+### Networking
+* [Netwerkkabel.eu](http://www.netwerkkabel.eu/)
