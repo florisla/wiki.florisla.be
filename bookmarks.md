@@ -6,3 +6,7 @@
 ### Handy products
 * [Rubber plant tie](http://www.tuinland.nl/product/64860/rubber-planten-binder-7mm-15stuks) cable-tie
 * [Easi tie](http://www.groworganic.com/easi-tie-rubber-tree-ties-6-ea.html) cable-tie
+
+### News .be
+* http://apache.be
+* http://bloovi.be
