@@ -10,5 +10,6 @@
 * Chipset: AMD 690G
 * Graphics: integrated
 * Memory: 2GB DDR2 (2x 1GB)
-* AOpen case
+* Case: AOpen
+* Monitor: LG L194WT-SF (19", 1440x900, CCFL)
 * Extra: FireWire, HDMI, Gb LAN
