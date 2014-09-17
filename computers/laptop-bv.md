@@ -5,5 +5,6 @@
 * Chipset: Intel Mobile 945G Express
 * Memory: 1 GB DDR2 SODIMM
 * Disk: 60GB Toshiba MK6034GAX (split in two partitions)
+* Screen: 14.1" 1280x800
 * OS: Windows XP Home edition NL, SP2
-* Extra: Ethernet, Syntaptics touchpad, 3x USB, SD, VGA, modem, DVD-RAM
+* Extra: Ethernet, Syntaptics touchpad, 3x USB, SD, VGA, modem, DVD-RAM, webcam
