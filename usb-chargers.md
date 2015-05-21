@@ -28,3 +28,8 @@
 
 #### Operation
 See http://www.eevblog.com/forum/reviews/how-do-smart-port-or-'power-iq'-usb-charger-ports-work/
+
+#### Links
+* http://lygte-info.dk/review/USBpower%20Eachine%20PA40W%20UK.html
+* http://budgetlightforum.com/node/38007
+
