@@ -11,6 +11,7 @@
  * Eachine
  * Floureon
  * Belkin
+ * KingMa
 
 #### Internals
 * BlitzWolf 40W internals: http://www.mobliephonefansclub.com/wp-content/uploads/2015/05/3.png from http://www.mobliephonefansclub.com/a-new-getting-optimizerblitzwolf-40w-5-port-desktop-charger/
@@ -19,7 +20,7 @@
 #### Rebrands
 * BlitzWolf 40W internals look very similar to Anker's, but the PCB is not identical.
 * BlitzWolf housing looks identical to Eachine's, and both mention manufacturer Shebel Shenzen.
-* Similar or identical models are also found (Floureon, ...)
+* Similar or identical models are also found (Floureon, KingMa, unbranded, ...)
 
 #### Chips used
 * Anker claims TI
@@ -32,4 +33,3 @@ See http://www.eevblog.com/forum/reviews/how-do-smart-port-or-'power-iq'-usb-cha
 #### Links
 * http://lygte-info.dk/review/USBpower%20Eachine%20PA40W%20UK.html
 * http://budgetlightforum.com/node/38007
-
