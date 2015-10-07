@@ -17,3 +17,7 @@
 ### News .be
 * http://apache.be
 * http://bloovi.be
+
+### Windows software tools
+* (Ninite)[https://ninite.com/]
+* (Chocolatey)[https://chocolatey.org/]
