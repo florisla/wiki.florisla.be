@@ -19,5 +19,5 @@
 * http://bloovi.be
 
 ### Windows software tools
-* (Ninite)[https://ninite.com/]
-* (Chocolatey)[https://chocolatey.org/]
+* [Ninite](https://ninite.com)
+* [Chocolatey](https://chocolatey.org)
